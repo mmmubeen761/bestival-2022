@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Bestival 2022",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
